@@ -1,17 +1,18 @@
 # Discord bot template
 
 ## About
-This template is using my npm package [dchandler](https://www.npmjs.com/package/dchandler)
+This template is using my npm package [dchandler](https://www.npmjs.com/package/dchandler).
 
 ## Usage
 
-Add Discord.js token into config file, aswell as mongoDBPath or turn on 'useNoDB: true' in handler options if u wish not to use a db. Aswell as add needed intents.
+Add Discord.js token into config file, aswell as mongoDBPath or turn on 'useNoDB: true' in handler options if u wish not to use a db. Aswell as add needed intents into client. 
 
 ```$
-$ npm i
-$ node index.js
+npm i
 ```
-
+```$
+node index.js
+```
 ## Extra Resources
 - dchandler:
     - https://www.npmjs.com/package/dchandler
