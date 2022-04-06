@@ -4,16 +4,23 @@
   "description": "Discord bot template",
   "main": "index.js",
   "scripts": {},
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/macen648/discordBotTemplate"
-    },
-  "keywords": ["discord", "bot", "handler", "dchandler", "discord.js", "command"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macen648/discordBotTemplate"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "handler",
+    "dchandler",
+    "discord.js",
+    "command"
+  ],
   "author": "Macen",
   "license": "MIT",
   "homepage": "https://github.com/macen648/discordBotTemplate",
   "dependencies": {
-    "dchandler": "^0.0.2-1",
+    "dchandler": "^0.0.3-3",
     "discord.js": "^13.6.0",
     "mongoose": "^6.2.10"
   }
